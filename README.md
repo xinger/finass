@@ -1,0 +1,2 @@
+# finass
+ Finance assistant
